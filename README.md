@@ -8,3 +8,5 @@ This script was written to satisfy a coursework requirement of the MSc Bioinform
 * Opened hits.aln in ClustalX
 
 The grade awarded for this work was 91%.
+
+The size of the Swissprot database is larger than the 100MB maximum for Github, and is therefore provided in compressed form.
